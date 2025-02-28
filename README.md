@@ -1,1 +1,3 @@
 # DualTransFuse
+
+![](./img/Architecture.webp)
